@@ -16,6 +16,7 @@ The main goal of the project is to help students plan their study activities, cr
 - 
 ## Project Structure
 
+
 planner/
 │
 ├── model/      → User, Group, Task, Session classes
