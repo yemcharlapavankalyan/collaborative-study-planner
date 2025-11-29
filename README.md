@@ -14,16 +14,6 @@ The main goal of the project is to help students plan their study activities, cr
 - View basic analytics like completed tasks and activity summary  
 - Save and load data using CSV files
 - 
-## Project Structure
-
-
-planner/
-│
-├── model/      → User, Group, Task, Session classes
-├── tracker/    → Progress tracking and analytics
-├── util/       → CSV handling, conflict detection, dependency checks
-└── Menu/       → Main menu and application flow
-
 CSV Storage
 
 The project stores data in CSV files so that the information is not lost after closing the program.
