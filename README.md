@@ -1,4 +1,4 @@
-Collaborative Study Planner – Java OOP Project:
+**Collaborative Study Planner – Java OOP Project:**
 
 This project is a console-based Study Planner application developed using Java and Object-Oriented Programming concepts.  
 The main goal of the project is to help students plan their study activities, create groups, assign tasks, schedule study sessions, and track progress in an organized manner.
